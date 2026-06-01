@@ -21,7 +21,7 @@ def print_menu():
     print("  2. Predict Marks")
     print("  3. View Prediction History")
     print("  4. Show Model Accuracy")
-    print("  5. Exit")
+    print("  5. leave")
     print("\n" + "-" * 44)
 
 def get_float_input(prompt, min_val, max_val):
