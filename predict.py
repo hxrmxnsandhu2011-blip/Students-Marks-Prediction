@@ -26,7 +26,7 @@ def get_performance_category(marks):
     This helps students understand where they stand.
     """
     if marks >= 85:
-        return "EXCELLENT  ★★★★★"
+        return "very good  ★★★★★"
     elif marks >= 70:
         return "GOOD       ★★★★"
     elif marks >= 55:
